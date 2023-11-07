@@ -9,7 +9,7 @@ This repository contains a Python-based web scraping tool developed with Scrapy 
 To use this tool, follow these steps:
 
 1. Clone the project using the following command:
-```git clone <git@github.com:m-ali-hasnain/uniqlo-scrapper.git>```
+```https://github.com/TayyabParacha/NightCapClothing-Scrapper.git```
 2. Install the required packages by running:
 ```pip install -r requirements.txt```
 You can also set up a virtual environment to manage the packages.
